@@ -1,0 +1,7 @@
+{
+  "appId": "com.tuempresa.studycoach",
+  "appName": "Study Coach",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "server": { "androidScheme": "https" }
+}
