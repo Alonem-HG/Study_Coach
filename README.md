@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📚 Study Coach App
 Creado con CodeSandbox y ChatGPT5.
 
@@ -85,7 +84,3 @@ onButtonPress():
 
 ## :warning: Solución de problemas
 TROUBLESHOOTING.md 
-=======
-# Study_Coach
-Created with CodeSandbox
->>>>>>> 987054a (Actualización: mejoras en TTS, troubleshooting y documentación)
