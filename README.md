@@ -1,5 +1,5 @@
 # 📚 Study Coach App
-Created with CodeSandbox y ChatGPT5.
+Creado con CodeSandbox y ChatGPT5.
 
 # Documentación de Desarrollo
 
